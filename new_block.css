@@ -1,0 +1,141 @@
+@import url("https://use.typekit.net/bhq1scb.css");
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #FFFFFF;
+  width: 1920px;
+  font-family: "open-sans", sans-serif;
+  font-style: normal;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+header {
+  position: relative;
+  display: flex;
+  width: 390px;
+  padding: 43px 0;
+  font-family: Segoe UI, sans-serif;
+  text-transform: uppercase;
+  font-size: 28px;
+  font-weight: 400;
+  color: #2C145E;
+}
+
+.logo {
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.nav {
+  position: relative;
+  padding-top: 72px;
+  margin-left: 200px;
+}
+
+.nav p1 {
+  font-size: 16px;
+  font-weight: 400;
+  color: #000000;
+}
+
+.nav p2 {
+  font-size: 16px;
+  font-weight: 400;
+  color: #BBBBBB;
+}
+
+.new {
+  position: relative;
+  width: 740px;
+  padding-top: 63px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+h1 {
+  padding-top: 21px;
+  margin-left: 200px;
+  font-size: 64px;
+  font-weight: 600;
+  color: #000000;
+}
+
+.new time {
+  display: inline-block;
+  padding-top: 60px;
+  background: #ECF2F5;
+  padding: 6px 18px;
+  border-radius: 50px;
+  font-size: 16px;
+  font-weight: 400;
+  color: #6C6E7B;
+  }
+
+.new span p {
+  margin: 40px 0;
+  font-size: 32px;
+  font-weight: 600;
+  color: #841844;
+}
+
+.new p {
+  font-weight: 400;
+  line-height: 32px;
+  margin: 22px 0;
+  color: #000000;
+}
+
+.new .btn {
+  display: inline-block;
+  background: #FFFFFF;
+  border: 2px solid #9B407A;
+  border-radius: 50px;
+  padding: 16px 41px;
+  text-transform: uppercase;
+  margin-top: 40px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #841844;
+  transition: all 500ms ease;
+}
+
+.new .btn:hover {
+  background: #841844;
+  color: #FFFFFF;
+}
+
+.new img {
+  position: absolute;
+  width: 740px;
+  height: 570px;
+  object-fit: cover;
+  left: 780px;
+  top: 15%;
+}
+
+.horizontal_line {
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 137px;
+}
+
+.footer {
+  margin-left: 200px;
+  margin-right: 200px;
+  padding: 72px 0px;
+  font-weight: 400;
+  color: #000000;
+}
